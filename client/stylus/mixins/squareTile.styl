@@ -1,0 +1,24 @@
+// How to make a percentage-based square tile
+// http://stackoverflow.com/questions/5445491/height-equal-to-dynamic-width-css-fluid-layout
+.squareTile
+  borderRadius = 5%
+  position relative
+  width 100%
+  border-radius borderRadius
+  overflow hidden
+  &:before
+    content ""
+    display block
+    padding-top 100%
+  .content
+    position absolute
+    top 0
+    left 0
+    bottom 0
+    right 0
+    // Curved edges
+    border-radius borderRadius
+    overflow hidden
+  .svg
+    width 100%
+    height 100%

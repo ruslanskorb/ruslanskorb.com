@@ -1,0 +1,12 @@
+extends layout
+
+block css
+  link(rel="stylesheet" href='css/pages/cal.css')
+
+block js
+  script(src="js/cal.js")
+  include includes/ga
+
+block content
+  .pageContent
+    include includes/pages/cal/index
