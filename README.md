@@ -1,5 +1,4 @@
-ruslanskorb.com
-==================
+# ruslanskorb.com
 
 The website [ruslanskorb.com](http://ruslanskorb.com)
 
@@ -12,7 +11,7 @@ $ npm start
 ### How to develop
 
 ```sh
-$ coffeegulp
+$ gulp
 ```
 
 ### Gulp tasks
