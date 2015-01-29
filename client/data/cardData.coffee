@@ -2,7 +2,7 @@ module.exports = [
   id: 'rskimagecropper'
   title: 'RSKImageCropper'
   img: 'svg'
-  description: 'An image cropper for iOS like in the Contacts app with support for landscape orientation'
+  description: 'An image cropper for iOS like in the Contacts app'
   url:
     github: 'https://github.com/ruslanskorb/RSKImageCropper'
 ,
@@ -16,7 +16,7 @@ module.exports = [
   id: 'kidmmuniversity'
   title: 'KidMastermind (v1.x)'
   img: 'png'
-  description: 'Find personalised educational tools and curriculums for little children'
+  description: 'Educational tools and curriculums for little ones'
   url:
     demo: 'https://itunes.apple.com/us/app/kidmastermind-university-for/id765248884'
 ,
@@ -44,7 +44,7 @@ module.exports = [
   id: 'kiddycoloredshapes'
   title: 'Kiddy Colored Shapes'
   img: 'png'
-  description: 'Differentiation of items by identifying their shape and color'
+  description: 'Identifying shape and color of items'
   url:
     demo: 'https://itunes.apple.com/us/app/kiddy-colored-shapes-learning/id768078680'
 ,
@@ -58,7 +58,7 @@ module.exports = [
   id: 'seeandhear'
   title: 'See & Hear'
   img: 'png'
-  description: 'Learn animals, transport, colors and simple geometrical figures'
+  description: 'Learn animals, transport, colors, etc.'
   url:
     demo: 'https://itunes.apple.com/us/app/see-hear/id542365972'
 ,
