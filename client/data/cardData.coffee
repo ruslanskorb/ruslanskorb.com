@@ -1,4 +1,11 @@
 module.exports = [
+  id: 'mindstretcher'
+  title: 'Mind Stretcher'
+  img: 'png'
+  description: 'Logical rows, big and small concept, pair matching'
+  url:
+    demo: 'https://itunes.apple.com/us/app/mind-stretcher/id950596132'
+,
   id: 'rskimagecropper'
   title: 'RSKImageCropper'
   img: 'svg'
