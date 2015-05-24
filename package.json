@@ -4,7 +4,7 @@
   "engines": {
     "node": "0.10.x"
   },
-  "description": "The home page for Ruslan Skorb -- ruslanskorb.com",
+  "description": "The home page for Ruslan Skorb - ruslanskorb.com",
   "homepage": "http://www.ruslanskorb.com/",
   "private": true,
   "scripts": {
