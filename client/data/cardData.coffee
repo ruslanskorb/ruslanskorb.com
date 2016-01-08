@@ -1,4 +1,11 @@
 module.exports = [
+  id: 'rskgrowingtextview'
+  title: 'RSKGrowingTextView'
+  img: 'svg'
+  description: 'An automatically growing and shrinking text area'
+  url:
+    github: 'https://github.com/ruslanskorb/RSKGrowingTextView'
+,
   id: 'mindstretcher'
   title: 'Mind Stretcher'
   img: 'png'
