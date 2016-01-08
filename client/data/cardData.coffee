@@ -1,4 +1,11 @@
 module.exports = [
+  id: 'mint'
+  title: 'Mint - Meet People Nearby'
+  img: 'png'
+  description: 'The easiest way to meet with new people nearby'
+  url:
+    github: 'https://itunes.apple.com/us/app/mint-meet-people-nearby/id1014457637'
+,
   id: 'rskgrowingtextview'
   title: 'RSKGrowingTextView'
   img: 'svg'
