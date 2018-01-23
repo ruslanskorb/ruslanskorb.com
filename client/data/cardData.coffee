@@ -1,8 +1,29 @@
 module.exports = [
-  id: 'mint'
-  title: 'Mint - Meet People Nearby'
+  id: 'arsnakegame'
+  title: 'AR Snake Game'
   img: 'png'
-  description: 'The easiest way to meet with new people nearby'
+  description: 'AR game that is worth your attention!'
+  url:
+    github: 'https://itunes.apple.com/us/app/ar-snake-game/id1305140729?mt=8'
+,
+  id: 'bloomfit'
+  title: 'Bloom.fit'
+  img: 'png'
+  description: 'Health & Fitness app that will bring calm, wellness and balance to your life'
+  url:
+    github: 'https://itunes.apple.com/us/app/bloom-fit/id1279250495?mt=8'
+,
+  id: 'f3cool'
+  title: 'F3.cool'
+  img: 'png'
+  description: 'Q&A app where you find out more about your friends by seeing their answers'
+  url:
+    github: 'https://itunes.apple.com/us/app/f3-cool/id1336087958?mt=8'
+,
+  id: 'mint'
+  title: 'Mint: Online Dating App & Chat'
+  img: 'png'
+  description: 'FREE dating app for chatting and meeting people nearby'
   url:
     github: 'https://itunes.apple.com/us/app/mint-meet-people-nearby/id1014457637'
 ,
