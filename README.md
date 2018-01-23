@@ -14,6 +14,13 @@ $ npm start
 $ gulp
 ```
 
+### How to deploy
+
+```sh
+heroku git:remote -a ruslanskorb
+git push heroku master
+```
+
 ### Gulp tasks
 
 - `gulp`: Builds and watches for changed files
