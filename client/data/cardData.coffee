@@ -7,16 +7,16 @@ module.exports = [
     github: 'https://itunes.apple.com/us/app/ar-snake-game/id1305140729?mt=8'
 ,
   id: 'bloomfit'
-  title: 'Bloom.fit'
+  title: 'Bloom.fit - Create Balanced Life'
   img: 'png'
-  description: 'Health & Fitness app that will bring calm, wellness and balance to your life'
+  description: 'Find balance in your life! Get your life back!'
   url:
     github: 'https://itunes.apple.com/us/app/bloom-fit/id1279250495?mt=8'
 ,
   id: 'f3cool'
-  title: 'F3.cool'
+  title: 'F3 - Create Cool Answers'
   img: 'png'
-  description: 'Q&A app where you find out more about your friends by seeing their answers'
+  description: 'Get questions! Create cool answers!'
   url:
     github: 'https://itunes.apple.com/us/app/f3-cool/id1336087958?mt=8'
 ,
