@@ -24,8 +24,6 @@ dest =
   image: 'client_build/images/'
   stylus: 'client_build/css/pages/'
 
-gulp.task 'build', ['coffee', 'image', 'stylus']
-
 gulp.task 'coffee', ->
   # Lint
   console.log '\nLinting coffeescript...\n'
@@ -60,8 +58,10 @@ gulp.task 'image', ->
     .pipe gulp.dest dest.image
 
 gulp.task 'watch', ->
-  gulp.watch src.coffee, ['coffee']
-  gulp.watch src.image, ['image']
-  gulp.watch src.stylus, ['stylus']
+  gulp.watch src.coffee, gulp.parallel('coffee')
+  gulp.watch src.image, gulp.parallel('image')
+  gulp.watch src.stylus, gulp.parallel('stylus')
 
-gulp.task 'default', ['build', 'watch']
+gulp.task 'build', gulp.parallel('coffee', 'image', 'stylus')
+
+gulp.task 'default', gulp.series('build', 'watch')
