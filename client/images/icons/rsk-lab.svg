@@ -1,15 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
-    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>rsk-lab</title>
+<svg width="2000px" height="2000px" viewBox="0 0 2000 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Logo-2000x2000</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="rsk-lab" stroke="#359FCE">
-            <g id="R[SK]" transform="translate(14.000000, 14.000000)">
-                <circle id="Oval-1" stroke-width="3" cx="36" cy="36" r="36"></circle>
-                <path d="M20.5,35.5 L32.8793999,47.1511999" id="Line" stroke-width="8" stroke-linecap="square"></path>
-                <path d="M53.5,26.5 L33.302812,47.5050755" id="Line" stroke-width="8" stroke-linecap="square"></path>
+    <defs>
+        <filter x="-14.4%" y="-14.4%" width="128.8%" height="128.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#0F4471" offset="0%"></stop>
+            <stop stop-color="#002749" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.84927956%" y1="76.3802517%" x2="89.1877832%" y2="73.8835069%" id="linearGradient-3">
+            <stop stop-color="#00294C" offset="0%"></stop>
+            <stop stop-color="#006299" offset="30.9359164%"></stop>
+            <stop stop-color="#5DDEFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="71.3858459%" y1="100%" x2="96.6437483%" y2="42.3982166%" id="linearGradient-4">
+            <stop stop-color="#00294C" offset="0%"></stop>
+            <stop stop-color="#006299" offset="30.9359164%"></stop>
+            <stop stop-color="#5DDEFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.25215491%" y1="71.9350431%" x2="54.302711%" y2="23.0381891%" id="linearGradient-5">
+            <stop stop-color="#00294C" offset="0%"></stop>
+            <stop stop-color="#006299" offset="30.9359164%"></stop>
+            <stop stop-color="#5DDEFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="72.0150966%" y1="95.9262682%" x2="5.89434447%" y2="63.7394269%" id="linearGradient-6">
+            <stop stop-color="#00294C" offset="0%"></stop>
+            <stop stop-color="#006299" offset="30.9359164%"></stop>
+            <stop stop-color="#5DDEFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.9069898%" y1="28.8419962%" x2="52.0763458%" y2="73.3915553%" id="linearGradient-7">
+            <stop stop-color="#002B50" offset="0%"></stop>
+            <stop stop-color="#083B66" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.1185222%" y1="23.1500394%" x2="74.7287696%" y2="74.6996762%" id="linearGradient-8">
+            <stop stop-color="#002B50" offset="0%"></stop>
+            <stop stop-color="#083B66" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="25.2716483%" y1="25.3003238%" x2="76.8814778%" y2="76.8495432%" id="linearGradient-9">
+            <stop stop-color="#002B50" offset="0%"></stop>
+            <stop stop-color="#083B66" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="30.2797113%" y1="49.8572256%" x2="79.6789503%" y2="50.0844656%" id="linearGradient-10">
+            <stop stop-color="#002B50" offset="0%"></stop>
+            <stop stop-color="#083B66" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Logo-2000x2000" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="2000" height="2000"></rect>
+        <g id="Logo" transform="translate(150.000000, 150.000000)">
+            <g>
+                <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="1700" height="1699.00059"></rect>
+                <g id="Crystals" transform="translate(13.000000, 0.999412)" fill-rule="nonzero">
+                    <g id="26" transform="translate(1306.990000, 555.173427)">
+                        <polygon id="Triangle" fill="#01576D" points="229.49 0.0119929453 115.5 159.905938 1.13686838e-13 213.374486"></polygon>
+                        <polygon id="Triangle" fill="#037795" points="260.15 195.34709 115.5 159.905938 229.5 0"></polygon>
+                        <polygon id="Triangle" fill="#0698BD" points="0 213.374486 115.5 159.905938 260.15 195.34709"></polygon>
+                    </g>
+                    <g id="25" transform="translate(1405.990000, 274.338624)">
+                        <polygon id="Triangle" fill="#006299" points="0 21.4873604 53 78.9535567 64.5 309.318048"></polygon>
+                        <polygon id="Triangle" fill="#0378B9" points="184 2.84217094e-14 53.06 79.5282187 0 21.4883598"></polygon>
+                        <polygon id="Triangle" fill="#0498EB" points="64.5 309.318048 53 79.4542622 184 0.00099941211"></polygon>
+                    </g>
+                    <g id="24" transform="translate(472.493000, 1169.811875)">
+                        <polygon id="Path" fill="#01576D" points="5.68434189e-14 0 85.509 176.825985 77.5 304.820694"></polygon>
+                        <polygon id="Triangle" fill="#037795" points="185.649 66.0811287 85.754 177.325691 1.70530257e-13 1.13686838e-13"></polygon>
+                        <polygon id="Triangle" fill="#0698BD" points="77.5 304.820694 85.509 176.825985 185.649 66.0811287"></polygon>
+                    </g>
+                    <g id="23" transform="translate(545.501000, 1245.277484)">
+                        <polygon id="Triangle" fill="#93CEFF" points="0 452.23398 119.5 360.787772 272 322.310406"></polygon>
+                        <polygon id="Triangle" fill="#ADDAFF" points="1.5 0 119.5 360.787772 0 452.23398"></polygon>
+                        <polygon id="Triangle" fill="#C0E2FF" points="272 322.310406 119.5 360.787772 1.5 0"></polygon>
+                    </g>
+                    <g id="22" transform="translate(1443.490000, 402.263374)">
+                        <polygon id="Triangle" fill="#C0E2FF" points="57.5 67.9600235 55.5 226.866549 22.19 107.370841 0 0"></polygon>
+                        <polygon id="Triangle" fill="#ADDAFF" points="57.5 67.9600235 207.5 85.4497354 139.7 148.707525 55.5 226.866549"></polygon>
+                        <polygon id="Triangle" fill="#93CEFF" points="57.5 67.9600235 0 0 92.88 36.9542622 207.5 85.4497354"></polygon>
+                    </g>
+                    <g id="21" transform="translate(296.616000, 221.523692)">
+                        <polygon id="Triangle" fill="#C0E2FF" points="49 143.915344 192.5 75.4556143 99.602 158.211934 13 224.867725"></polygon>
+                        <polygon id="Triangle" fill="#ADDAFF" points="49 143.915344 0 0 85.62 33.8121105 192.5 75.4556143"></polygon>
+                        <polygon id="Triangle" fill="#93CEFF" points="49 143.915344 13 224.867725 5.739 124.956496 0 0"></polygon>
+                    </g>
+                    <g id="20" transform="translate(1349.990000, 1182.804233)">
+                        <polygon id="Triangle" fill="#C0E2FF" points="144.5 80.4526749 0 145.414462 182.5 0"></polygon>
+                        <polygon id="Triangle" fill="#ADDAFF" points="144.5 80.4526749 191 224.867725 105.77 189.258671 0 145.414462"></polygon>
+                        <polygon id="Triangle" fill="#93CEFF" points="144.39 80.5126396 182.5 0 191 224.867725"></polygon>
+                    </g>
+                    <g id="19" transform="translate(215.512000, 1113.155203)">
+                        <polygon id="Triangle" fill="#002749" points="127 268.342152 163.455 369.312757 2.84217094e-14 224.867725"></polygon>
+                        <polygon id="Triangle" fill="#023C6E" points="0 224.867725 198 0 127 268.342152"></polygon>
+                        <polygon id="Triangle" fill="#0263B8" points="127 268.342152 198 0 163.5 369.282775"></polygon>
+                    </g>
+                    <g id="18" transform="translate(1476.840000, 961.034685)">
+                        <polygon id="Triangle" fill="#C0E2FF" points="139.65 49.3709583 -1.13686838e-13 43.8442093 200.79 0.189888301"></polygon>
+                        <polygon id="Triangle" fill="#ADDAFF" points="139.65 49.3709583 120.15 181.793063 0.15 43.8741917"></polygon>
+                        <polygon id="Triangle" fill="#93CEFF" points="139.65 49.3709583 201.05 5.68434189e-14 120.15 181.793063"></polygon>
+                    </g>
+                    <g id="17" transform="translate(1.027500, 671.105232)">
+                        <polygon id="Triangle" fill="#93CEFF" points="83.0005 0 108.5005 129.423868 0.0001 307.319224"></polygon>
+                        <polygon id="Triangle" fill="#ADDAFF" points="469.5005 228.865373 108.5005 129.423868 83.0005 0"></polygon>
+                        <polygon id="Triangle" fill="#C0E2FF" points="-2.84217094e-14 307.319224 108.5005 129.423868 469.5005 228.865373"></polygon>
+                    </g>
+                    <g id="16" transform="translate(5.088100, 922.048618)">
+                        <polygon id="Triangle" fill="#93CEFF" points="505.4029 0.408759553 234.9029 326.217108 0 109.484597"></polygon>
+                        <polygon id="Triangle" fill="#ADDAFF" points="505.9229 5.68434189e-14 397.7169 314.334098 234.6439 326.506937"></polygon>
+                    </g>
+                    <g id="15" transform="translate(91.527000, 880.482069)">
+                        <polygon id="Triangle" fill="#006299" points="0.001 253.35097 128.501 230.364491 463.653 388.84127"></polygon>
+                        <polygon id="Triangle" fill="#0378B9" points="129.001 0 128.5 230.364491 2.84217094e-14 253.35097"></polygon>
+                        <polygon id="Triangle" fill="#0498EB" points="463.5 388.771311 128.501 230.364491 129.001 0"></polygon>
+                    </g>
+                    <g id="14" transform="translate(0.057300, 1163.365667)">
+                        <polygon id="Triangle" fill="#006299" points="246.0707 98.7419165 176.5407 109.10582 0 0"></polygon>
+                        <polygon id="Triangle" fill="#0378B9" points="167.9697 247.504409 176.5407 109.10582 246.0707 98.7419165"></polygon>
+                        <polygon id="Triangle" fill="#0498EB" points="0 0 176.5407 109.10582 167.9697 247.504409"></polygon>
+                    </g>
+                    <g id="13" transform="translate(961.990000, 1389.182834)">
+                        <polygon id="Triangle" fill="#006299" points="104 183.891828 131.5 127.425044 334.5 102.939447"></polygon>
+                        <polygon id="Triangle" fill="#0378B9" points="0 0 131.5 127.425044 104 183.891828"></polygon>
+                        <polygon id="Triangle" fill="#0498EB" points="334.5 102.939447 131.5 127.425044 0 0"></polygon>
+                    </g>
+                    <g id="12" transform="translate(1239.990000, 1231.775426)">
+                        <polygon id="Triangle" fill="#006299" points="186.5 81.452087 135.5 96.4432687 0 0"></polygon>
+                        <polygon id="Triangle" fill="#0378B9" points="136.5 233.862434 135.5 96.4432687 186.5 81.452087"></polygon>
+                        <polygon id="Triangle" fill="#0498EB" points="0 0 135.5 96.4432687 136.5 233.862434"></polygon>
+                    </g>
+                    <g id="11" transform="translate(1173.490000, 766.049383)">
+                        <polygon id="Triangle" fill="#002749" points="231.5 197.883598 220.5 0 406.5 434.244562"></polygon>
+                        <polygon id="Triangle" fill="#023C6E" points="406.5 434.244562 0 509.20047 231.5 197.883598"></polygon>
+                        <polygon id="Triangle" fill="#0263B8" points="231.5 197.883598 0 509.20047 220.5 0"></polygon>
+                    </g>
+                    <g id="10" transform="translate(1213.990000, 550.676073)">
+                        <polygon id="Triangle" fill="#93CEFF" points="0 253.850676 127.5 230.864198 468 391.769547"></polygon>
+                        <polygon id="Triangle" fill="#ADDAFF" points="128.15 0 127.5 230.864198 0 253.850676"></polygon>
+                        <polygon id="Triangle" fill="#C0E2FF" points="468 391.769547 127.5 230.864198 128 0"></polygon>
+                    </g>
+                    <g id="9" transform="translate(722.816000, 0.000000)">
+                        <polygon id="Triangle" fill="#93CEFF" points="192.464 422.544444 52.401 92.1827748 305.884 0"></polygon>
+                        <polygon id="Triangle" fill="#ADDAFF" points="192.464 422.544444 0 222.234274 52.401 92.1827748"></polygon>
+                    </g>
+                    <g id="8" transform="translate(991.260000, 86.948854)">
+                        <polygon id="Triangle" fill="#01576D" points="94.23 291.828336 184.73 85.4497354 309.23 0"></polygon>
+                        <polygon id="Triangle" fill="#037795" points="0 73.4627866 184.73 85.4497354 94.23 291.828336"></polygon>
+                        <polygon id="Triangle" fill="#0698BD" points="309.23 0 184.73 85.4497354 0 73.4627866"></polygon>
+                    </g>
+                    <g id="6" transform="translate(1006.990000, 134.920635)">
+                        <polygon id="Triangle" fill="#002749" points="363.5 174.397413 459.5 0 382 465.726044"></polygon>
+                        <polygon id="Triangle" fill="#023C6E" points="382 465.726044 0 306.819518 363.5 174.397413"></polygon>
+                        <polygon id="Triangle" fill="#0263B8" points="363.46 174.391417 0 306.819518 459.5 0"></polygon>
+                    </g>
+                    <g id="5" transform="translate(754.147000, 988.788360)">
+                        <polygon id="Triangle" fill="#037795" points="496.343 439.871252 163.843 285.462081 322.743 0"></polygon>
+                        <polygon id="Triangle" fill="#01576D" points="163.843 285.462081 496.343 439.871252 -5.68434189e-14 415.365667"></polygon>
+                    </g>
+                    <g id="4" transform="translate(540.915000, 1181.514991)">
+                        <polygon id="Triangle" fill="#002749" points="153.5 125.925926 0 0 438.995 158.906526"></polygon>
+                        <polygon id="Triangle" fill="#023C6E" points="438.995 158.906526 217.5 509.700176 153.5 125.925926"></polygon>
+                        <polygon id="Triangle" fill="#0263B8" points="153.5 125.925926 217.5 509.700176 0 0"></polygon>
+                    </g>
+                    <g id="3" transform="translate(380.516000, 54.207713)">
+                        <polygon id="Triangle" fill="#01576D" points="0.437 465.922328 279.19 296.782822 487.627 265.534203"></polygon>
+                        <polygon id="Triangle" fill="#037795" points="64.178 0 279.778 296.543962 1 466.026267"></polygon>
+                        <polygon id="Triangle" fill="#0698BD" points="279.19 296.782822 63.219 0.168300999 487.627 265.534203"></polygon>
+                    </g>
+                    <g id="2" transform="translate(88.455000, 395.084597)">
+                        <polygon id="Triangle" fill="#002749" points="218.5 119.429747 251.5 0 287.5 274.338624"></polygon>
+                        <polygon id="Triangle" fill="#023C6E" points="287.5 274.338624 5.68434189e-14 273.339212 218.5 119.429747"></polygon>
+                        <polygon id="Triangle" fill="#0263B8" points="218.5 119.429747 1.42108547e-14 273.339212 251.5 0"></polygon>
+                    </g>
+                    <g id="1" transform="translate(79.000000, 283.656143)">
+                        <polygon id="Triangle" fill="#01576D" points="0 121.428571 156 121.928277 243.5 175.896531"></polygon>
+                        <polygon id="Triangle" fill="#037795" points="111.5 0 156 121.928277 0 121.428571"></polygon>
+                        <polygon id="Triangle" fill="#0698BD" points="243.5 175.896531 156 121.928277 111.5 0"></polygon>
+                    </g>
+                </g>
+                <g id="Circle" transform="translate(329.000000, 329.805996)">
+                    <ellipse id="Blur" fill="#5DDEFF" filter="url(#filter-1)" cx="520" cy="521.693122" rx="520" ry="519.694297"></ellipse>
+                    <ellipse id="Background-circle" stroke="#FFFFFF" stroke-width="8" fill="url(#linearGradient-2)" cx="520" cy="519.694297" rx="520" ry="519.694297"></ellipse>
+                    <path d="M197.8,842.685194 C251.688871,874.2936 313.975642,892.338096 380.332875,892.338096 C585.154027,892.338096 751.194378,720.421482 751.194378,508.351592 C751.194378,440.167678 734.03034,376.134516 703.931861,320.631393 C816.675477,386.589332 892.8,511.937541 892.8,655.718924 C892.8,868.066439 726.759649,1040.20811 521.938497,1040.20811 C382.576185,1040.20811 261.167735,960.513844 197.8,842.685194 Z" id="Semicircle-1" stroke="#FFFFFF" stroke-width="6" fill="url(#linearGradient-3)"></path>
+                    <path d="M340.437062,320.955371 C406.48137,211.734656 524.989225,138.918283 660.2,138.918283 C867.43933,138.918283 1035.44,309.979199 1035.44,520.993533 C1035.44,667.223462 954.761161,794.266591 836.254457,858.491386 C871.20091,800.341978 891.35,731.924486 891.35,658.702528 C891.35,447.412214 723.573187,276.127572 516.61,276.127572 C452.926685,276.127572 392.953595,292.345058 340.437062,320.955371 Z" id="Semicircle-2" stroke="#FFFFFF" stroke-width="6" fill="url(#linearGradient-4)"></path>
+                    <path d="M342.73329,723.574534 C222.823809,659.859548 141,532.341881 141,385.42328 C141,174.767721 309.217812,3.99764844 516.725,3.99764844 C651.495484,3.99764844 769.693072,76.0312368 835.99671,184.241456 C783.976981,156.600304 724.789373,140.967078 662.005,140.967078 C454.497812,140.967078 286.28,311.73715 286.28,522.39271 C286.28,596.233001 306.948689,665.172617 342.73329,723.574534 Z" id="Semicircle-3" stroke="#FFFFFF" stroke-width="6" fill="url(#linearGradient-5)"></path>
+                    <path d="M198.143618,185.201058 C163.298623,243.315454 143.216641,311.637687 143.216641,384.743321 C143.216641,596.290296 311.375017,767.783004 518.808885,767.783004 C583.291805,767.783004 643.979376,751.210974 697,722.01528 C631.035277,831.761884 512.434709,904.96231 377.092008,904.96231 C169.934412,904.96231 2,733.469603 2,521.922628 C2,376.549297 81.3040817,250.090892 198.143618,185.201058 Z" id="Semicircle-4" stroke="#FFFFFF" stroke-width="6" fill="url(#linearGradient-6)"></path>
+                    <path d="M866,521.672134 C828.93,677.43351 690.833,808.665315 518.111,874.485597 C358.424,835.238683 216.6616,674.162434 169,521.672134 C190.1829,377.765785 335.533,234.491264 517.5,170.899471 C695.518,229.361082 828.93,368.772075 866,521.672134 Z" id="Center" stroke="#FFFFFF" stroke-width="6" fill="#E4F0FA" fill-rule="nonzero"></path>
+                </g>
+                <g id="Central-Figure" transform="translate(564.000000, 564.667842)" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="5.80324">
+                    <path d="M175.795,297.933745 L175.795,102.444738 C175.795,93.1372134 179.571,84.226455 186.26,77.7502646 L256.546,9.69139918 C269.491,-2.84252792 289.92,-3.26857731 303.376,8.71497354 L361.15,60.1667078 L413.183,113.552205 C426.367,127.079248 426.169,148.69953 412.74,161.983715 L277.407,295.849971 L208.35,361.146561 C194.719,370.812875 175.795,361.081599 175.795,344.325456 L175.795,297.933745 Z" id="Trapeze" fill="url(#linearGradient-7)"></path>
+                    <polygon id="Trapeze" fill="#E4F0FA" points="228.088 198.094474 228.088 107.438801 282.244 59.9293474 360.654 134.748736 228.088 266.051499"></polygon>
+                    <path d="M185.796,483.177778 C172.36,469.749677 172.36,447.978483 185.796,434.550382 L280.382,340.019988 C293.818,326.591887 315.602,326.591887 329.038,340.019988 L408.564,419.499236 C417.144,428.074192 417.144,441.976014 408.564,450.55097 L296.392,562.658025 C287.812,571.231981 273.902,571.231981 265.322,562.658025 L185.796,483.177778 Z" id="Rectangle" fill="url(#linearGradient-8)"></path>
+                    <polygon id="Rectangle" fill="#E4F0FA" points="240.866 458.614227 302.506 398.573545 342.307 439.385538 280.667 499.427219"></polygon>
+                    <path d="M337.613,316.137037 C329.033,307.563081 329.033,293.661258 337.613,285.086302 L449.786,172.979248 C458.365,164.405291 472.276,164.405291 480.855,172.979248 L560.381,252.459494 C573.817,265.886596 573.817,287.658789 560.381,301.085891 L465.795,395.617284 C452.359,409.045385 430.575,409.045385 417.139,395.617284 L337.613,316.137037 Z" id="Rectangle" fill="url(#linearGradient-9)"></path>
+                    <polygon id="Rectangle" fill="#E4F0FA" transform="translate(452.196734, 290.747956) rotate(-44.264100) translate(-452.196734, -290.747956) " points="409.163581 262.231706 495.21313 262.256999 495.229886 319.264206 409.180337 319.238913"></polygon>
+                    <path d="M6.3467,295.621105 C-1.825,287.097119 -1.7891,273.640035 6.4278,265.159024 L100.983,167.563433 C114.737,153.366784 138.788,163.135038 138.735,182.895414 L138.214,378.587302 C138.162,398.347678 114.059,407.987008 100.381,393.718401 L6.3467,295.621105 Z" id="Triangle" fill="url(#linearGradient-10)"></path>
+                    <polygon id="Triangle" fill="#E4F0FA" points="86.6534 307.466138 61.7781 281.663316 86.7904 255.992416"></polygon>
+                </g>
             </g>
         </g>
     </g>
