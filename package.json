@@ -40,7 +40,7 @@
     "gulp-wrap": "^0.15.0",
     "imagemin-pngquant": "^8.0.0",
     "jade": "^1.11.0",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "jquery-smooth-scroll": "^1.5.4",
     "load-grunt-tasks": "^5.1.0",
     "method-override": "^2.1.2",
