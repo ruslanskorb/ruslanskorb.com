@@ -18,7 +18,7 @@ app = express()
 redirect app
 
 # all environments
-app.set 'port', process.env.PORT || 3000
+app.set 'port', process.env.PORT || 8080
 
 # Jade
 jade = require 'jade'

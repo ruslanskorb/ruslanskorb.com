@@ -1,7 +1,14 @@
-.DS_STORE
-node_modules
-client_build
-*.log
-.c9
-.idea
-.elasticbeanstalk/
+# OS X
+#
+.DS_Store
+
+# Builds
+ruslanskorb-node/client_build/
+
+# Dependencies
+#
+ruslanskorb-node/node_modules/
+
+# Data
+data/aws/
+data/certbot/
