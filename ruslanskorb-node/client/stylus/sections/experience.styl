@@ -57,10 +57,8 @@ section#experience
           margin 0 auto 20px
       .descriptionArea
         @media notPhone
-          delta = iconAreaSize - 2*listPadding
-          width "calc(100% - %s)"-delta
+          width calc(100% - 190px)
         @media phone
-          width "calc(100% - %s)"
           padding-top 10px
         line-height 2
         a
