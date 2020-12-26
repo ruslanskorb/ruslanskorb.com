@@ -19,8 +19,8 @@ section#experience
     width 100%
     max-width 1120px
     margin 0 auto
+    padding 0 30px 20px
     listPadding = 5px
-    padding-bottom 20px
     & > li
       overflow hidden
       border-radius 10px
@@ -45,9 +45,6 @@ section#experience
             transform translateX(-5px)
           .iconArea
             float right
-      @media phone
-        margin 0 30px
-        width 100%
 
       iconAreaSize = 120px
       iconSize = 0.7
@@ -58,13 +55,12 @@ section#experience
         @media phone
           width (iconAreaSize * iconSize)px
           margin 0 auto 20px
-          position relative
-          left -30px
       .descriptionArea
         @media notPhone
-          width 1120px - iconAreaSize - 2*listPadding
+          delta = iconAreaSize - 2*listPadding
+          width "calc(100% - %s)"-delta
         @media phone
-          width 440px
+          width "calc(100% - %s)"
           padding-top 10px
         line-height 2
         a
