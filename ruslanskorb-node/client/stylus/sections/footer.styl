@@ -1,7 +1,8 @@
 @import '../global'
 
 footer
-  linkSeparation = 30px
+  linkSeparationNotPhone = 30px
+  linkSeparationPhone = 10px
   footerHeight = 30px
   footerTextColor = LIGHT_GRAY
   background-color BLUE_BLACK
@@ -12,18 +13,20 @@ footer
       @media notPhone
         display inline
         &:not(:first-child)
-          padding-left linkSeparation
-      padding-top linkSeparation
+          padding-left linkSeparationNotPhone
+      padding-top linkSeparationNotPhone
+      @media phone
+        padding-top linkSeparationPhone
       transition color transitionSpeed
       &:hover
         color WHITE
   @media notPhone
-    height footerHeight * 2
-    padding footerHeight
+    height footerHeight * 3
+    padding footerHeight footerHeight 0
     li + li:before
       color footerTextColor
       content "|"
-      padding-right linkSeparation
+      padding-right linkSeparationNotPhone
     .links
       float left
     .message
@@ -31,8 +34,8 @@ footer
   @media phone
     padding-top 15px
     text-align center
-    padding linkSeparation 0
+    padding linkSeparationNotPhone 0
     li
       padding-bottom 5px
     .message
-      padding linkSeparation 0 linkSeparation 0
+      padding linkSeparationNotPhone 0 linkSeparationNotPhone 0

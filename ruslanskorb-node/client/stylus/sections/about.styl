@@ -10,28 +10,30 @@ section#about
   > .title
     title()
     color WHITE
+    margin-bottom 20px
+    @media phone
+      font-size FONT_MEDIUM
+      margin-bottom 15px
 
-  $profilePictureWidth = 200px
   .profile
-    width $profilePictureWidth
+    width 200px
     display block
-    margin 0 auto
+    margin 0 auto 30px
     text-align center
     border-radius 50%
-    margin-bottom 20px
     padding 10px
     border 2px rgba(lightColor, 0.5) dashed
+    @media phone
+      width 140px
+      margin-bottom 20px
 
-  $profileColumnWidth = 840px
-  .longBio
-    $bioPadding = 30px
+  .longBio 
     text-indent 50px
-    width $profileColumnWidth
+    width 840px
     margin 0 auto
     font-size FONT_MEDIUM
     line-height 1.5
-    padding-bottom $bioPadding
-    padding-left 15px
+    padding 0 0 30px
     em, a
       color lightColor
     a
@@ -40,5 +42,5 @@ section#about
         color darkColor
     @media phone
       width 100%
-      padding $bioPadding
+      padding 0 30px 20px
       font-size FONT_SMALL
