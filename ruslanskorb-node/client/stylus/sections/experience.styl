@@ -14,18 +14,17 @@ section#experience
     margin-bottom 10px
     @media phone
       font-size FONT_MEDIUM
-      margin-bottom 15px
+      margin-bottom 12px
   .experienceList
     width 100%
     max-width 1120px
     margin 0 auto
     padding 0 30px 20px
-    listPadding = 5px
     & > li
       overflow hidden
       border-radius 10px
+      padding 5px
       @media notPhone
-        padding listPadding
         transition transform transitionSpeed, background-color transitionSpeed
         .descriptionArea a
           transition color transitionSpeed
@@ -54,7 +53,7 @@ section#experience
           padding ((1 - iconSize)/2) * iconAreaSize
         @media phone
           width (iconAreaSize * iconSize)px
-          margin 0 auto 20px
+          margin 0 auto 10px
       .descriptionArea
         @media notPhone
           width calc(100% - 190px)
